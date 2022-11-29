@@ -9,7 +9,7 @@ pipeline {
 
     stage('Logs') {
       steps {
-        sh 'tail -f /var/log/nginx'
+        sh 'ls -lh'
       }
     }
 
