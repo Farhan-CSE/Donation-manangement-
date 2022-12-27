@@ -13,5 +13,11 @@ pipeline {
       }
     }
 
+    stage('Git pull') {
+      steps {
+        sh 'service nginx status'
+      }
+    }
+
   }
 }
