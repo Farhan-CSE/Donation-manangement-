@@ -19,7 +19,7 @@
                 <field name="responsible_id" attrs="{'invisible': [('is_responsible','=', True)]}"/>
                 <field name="child_ids" attrs="{'invisible': [('is_responsible','=', False)]}"/>
               </group>
-              <group string="Address details">
+              <group string="Address detail">
                 <field name="region"/>
                 <field name="street"/>
                 <field name="near"/>
