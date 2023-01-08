@@ -21,7 +21,7 @@
               </group>
               <group string="Address detail">
                 <field name="region"/>
-                <field name="street"/>
+                <field name="streets"/>
                 <field name="near"/>
                 <field name="above"/>
                 <field name="beside"/>
