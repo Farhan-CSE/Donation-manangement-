@@ -10,7 +10,7 @@
           <sheet>
             <group>
               <group string="Personal detail">
-                <field name="serial_number"/>
+                <field name="serial_numbers"/>
                 <field name="name"/>
                 <field name="gender" widget="radio"/>
                 <field name="phone"/>
