@@ -9,7 +9,7 @@
         <form string="beneficiary form">
           <sheet>
             <group>
-              <group string="Personal details">
+              <group string="Personal detail">
                 <field name="serial_number"/>
                 <field name="name"/>
                 <field name="gender" widget="radio"/>
